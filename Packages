@@ -258,3 +258,43 @@ Description:
 License: SEE LICENSE IN LICENSE.txt
 Vendor: WorkAdventure <hello@workadventu.re>
 
+Package: workadventure
+Version: 2.0.0~beta.8
+Architecture: amd64
+Maintainer: WorkAdventure <hello@workadventu.re>
+Installed-Size: 285059
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: releases/download/desktop-v2.0.0-beta.8/WorkAdventure-amd64.deb
+Size: 102544900
+MD5sum: 32f36a246d4fb07026a7457084780e4c
+SHA1: 598ea7291c6841e0147d52edc144b8bcb9ab4184
+SHA256: 9d8b0943d4d8116933913ec27d8426c69b9fe240c41e71a4081fe04d8fbb5d6a
+Section: default
+Priority: optional
+Homepage: https://workadventu.re
+Description:
+  Desktop application for WorkAdventure
+License: SEE LICENSE IN LICENSE.txt
+Vendor: WorkAdventure <hello@workadventu.re>
+
+Package: workadventure
+Version: 2.0.0~beta.8
+Architecture: arm64
+Maintainer: WorkAdventure <hello@workadventu.re>
+Installed-Size: 289968
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: releases/download/desktop-v2.0.0-beta.8/WorkAdventure-arm64.deb
+Size: 97370648
+MD5sum: e0c6f4a2676ea531a603b44b6b743c1d
+SHA1: 8c4727b0eb672eeeb4e6a6bf5a47ac44386ce907
+SHA256: 4d86fa18ff1f902b8e3d499b03728060ab2d86b3f2011128e9e0929c789d2ad9
+Section: default
+Priority: optional
+Homepage: https://workadventu.re
+Description:
+  Desktop application for WorkAdventure
+License: SEE LICENSE IN LICENSE.txt
+Vendor: WorkAdventure <hello@workadventu.re>
+
